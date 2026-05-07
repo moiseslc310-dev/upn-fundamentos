@@ -1,4 +1,8 @@
 <Solution>
-  <Project Path="EjemploS6/EjemploS6.csproj" />
-  <Project Path="Semana06Laboratorio/Semana06Laboratorio.csproj" />
+  <Project Path="EjemploS6/EjemploS6.csproj" Id="1e31e16f-4687-4b4d-bed9-34d1b77d9b53" />
+  <Project Path="Ejercicio1/Ejercicio1.csproj" Id="4e399aff-49e4-434e-8348-e5cacd50d246" />
+  <Project Path="Ejercicio2/Ejercicio2.csproj" Id="068878ff-649c-4a4e-aff9-e5f2a20395b6" />
+  <Project Path="Ejercicio3/Ejercicio3.csproj" Id="52ee6500-ecc0-4f32-af61-703b83a8d9de" />
+  <Project Path="Ejercicio4/Ejercicio4.csproj" Id="284481b3-8534-4eba-ae25-c25149b794ff" />
+  <Project Path="Ejercicio5/Ejercicio5.csproj" Id="b5c099d7-a6eb-4ad2-acbe-29326d1cdf3a" />
 </Solution>
